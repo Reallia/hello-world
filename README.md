@@ -1,2 +1,3 @@
 # hello-world
-Just another repository.
+Something about myself could be...
+I like animals.
